@@ -11,7 +11,8 @@ rotationMatrix = cv2.getRotationMatrix2D( center, rotationAngle, scaleFactor)
 
 print(rotationMatrix)
 
-result = cv2.warpAffine(source, rotationMatrix, (source.shape[1], source.shape[0]))
+result = cv2.warpAffine(source, rotationMatrix,
+                        (source.shape[1], source.shape[0]))
 
 cv2.imshow("Original", source)
 cv2.imshow("Rotated Image", result)
