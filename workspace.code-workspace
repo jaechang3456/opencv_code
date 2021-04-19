@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "opencv_code",
+			"path": "."
+		},
+		{
+			"name": "data2",
+			"path": "..\\..\\..\\Desktop\\재창\\OpenCV 수업 자료\\data2"
+		},
+		{
+			"name": "data3",
+			"path": "..\\..\\..\\Desktop\\재창\\OpenCV 수업 자료\\data3"
+		},
+		{
+			"name": "data4",
+			"path": "..\\..\\..\\Desktop\\재창\\OpenCV 수업 자료\\data4"
+		}
+	],
+	"settings": {}
+}
